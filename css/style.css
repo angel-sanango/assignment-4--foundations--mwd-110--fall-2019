@@ -22,7 +22,7 @@ p {
 }
 
 body {
-   background-color: #b0b3af;
+   background-color: #0f0606;
    margin: 4px;
 }
 
@@ -37,45 +37,45 @@ a:hover {
 
 div {
    background-color: #0f0606;
-   text-align: center;
-   display: inline-block;
+   width: 800px;
+   margin: auto;
    padding: 10px;
    line-height: 18px;
-   width: inherit;
 }
 
 .first {
    height: inherit;
-   padding: 10px 100px;
+   padding: 10px 50px;
 }
 
 .second {
    height: inherit;
-   padding: 10px 100px;
+   padding: 10px 50px;
 }
 
 .third {
    height: inherit;
-   padding: 10px 100px 20px;
+   padding: 10px 50px 20px;
 }
 
 nav ol li {
    background-color: #0f0606;
+   width: 450px;
+   margin: auto;
    color: #fcfffa;
-   text-align: center;
    font-size: 1.1rem;
-   padding: 4px;
+   line-height: 20px;
    font-family: 'Share Tech Mono', monospace;
 }
 
 .firstpic {
-   padding: 20px 1px 10px;
-   width: 50vw;
-   height: 60vh;
+   padding-bottom: 20px;
+   width: 55vw;
+   height: 55vh;
 }
 
 .sndpic {
-   padding: 20px 1px;
-   width: 50vw;
-   height: 60vh;
+   width: 55vw;
+   height: 55vh;
+   margin: 5px;
 }
