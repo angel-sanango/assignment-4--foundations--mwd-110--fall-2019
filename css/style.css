@@ -151,9 +151,12 @@ p {
 }
 
 img {
-  margin: auto;
   width: 60vw;
   height: 60vh;
+}
+
+div {
+  align-items: center;
 }
 
 a {
